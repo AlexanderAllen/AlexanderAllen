@@ -6,13 +6,17 @@ I'm Richard Allen. In here these parts my handle is Alexander Allen, but you can
 
 🔭 My latest projects are [Panettone](https://github.com/AlexanderAllen/panettone) (an Open Api parser for PHP) and [Musica](https://www.drupal.org/project/musica) (a music service module for Drupal).
 
+Some other technologies I have worked with include [TypeScript](https://github.com/AlexanderAllen/vscode-gpg-indicator), [Webpack](https://github.com/AlexanderAllen/2019-electron-webpack-react-starter), [Docker](https://github.com/AlexanderAllen/Boilerplates-for-Lando), and [Kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes/pull/93).
+
+Yes, I once certified for the [Acquia Drupal Developer](https://certification.acquia.com/user/451) exam.
+
 💬 You can find me at:
 
 - LinkedIn: [drupalista](https://www.linkedin.com/in/drupalista)
 - Drupal.org: [alexander-allen](https://www.drupal.org/u/alexander-allen)
 - Gitlab: [AlexanderAllen](https://git.drupalcode.org/AlexanderAllen)
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=alexanderallen&show_icons=true&count_private=true&theme=dark" />
 
 <!--
 **AlexanderAllen/AlexanderAllen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
