@@ -11,17 +11,18 @@
 
 <br />
 
-⚒️ Some of the previous, publicly available work I been involved with:
- - [Kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes/pull/93) ([IBM/drupal-nginx-php-kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes))
- - JAMStack [BodilessJS](https://github.com/johnsonandjohnson/Bodiless-JS)
- - [TypeScript](https://github.com/AlexanderAllen/vscode-gpg-indicator)
- - [Webpack / Electron / React](https://github.com/AlexanderAllen/2019-electron-webpack-react-starter)
- - [Lando](https://github.com/AlexanderAllen/Boilerplates-for-Lando)
- - [Docker](https://github.com/DrupalDevOps/Mirounga)
+⚒️ Some of the previous, publicly available work I been involved with [2016-present]
+
+ - [Lando templates](https://github.com/AlexanderAllen/Boilerplates-for-Lando), 2021-present
+ - [TypeScript](https://github.com/AlexanderAllen/vscode-gpg-indicator), 2023
+ - [Webpack / Electron / React](https://github.com/AlexanderAllen/2019-electron-webpack-react-starter), 2019
+ - JAMStack [BodilessJS](https://github.com/johnsonandjohnson/Bodiless-JS), 2018
+ - [Kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes/pull/93) ([IBM/drupal-nginx-php-kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes)), 2017
+ - [Docker](https://github.com/DrupalDevOps/Mirounga), 2016
 
 <br />
 
-🗃️ Archived work I contributed to, no longer live:
+🗃️ Archived work that I contributed to in the past, but it is no longer available [2010-2015]
 
 - Northpoint Digital, "Guardian Life Insurance Company," 8 July 2015. [Online]. Available: https://web.archive.org/web/20150708121142/https://www.guardianlife.com/.
 - Appnovation, Time Inc. DCMS Team, "Appnovation Case Study - Time Inc. DCMS," 2014. [Online]. Available: https://www.appnovation.com/our-work/time-inc-creating-headline-making-customer-experience.
@@ -30,6 +31,14 @@
 - L. Tsai, T. Shin, S. Voitenko, R. Allen, D. McKinnon and J. Markel, "Time For Kids," Time Inc., a subsidiary of Time Warner, 1 February 2012. [Online]. Available: https://web.archive.org/web/20120201041904/http://timeforkids.com/.
 - A. Murray, K. Garcia, J. Colburn, W. Foster, C. Chhun, R. Allen and M. Lopez, "Time Out New York," Time Out North America, 11 October 2010. [Online]. Available: https://web.archive.org/web/20101114022149/http://newyork.timeout.com/.
  
+<br />
+
+Before 2010:
+
+- U.S. Army Reserves, Human Resources Specialist (42A), primary classification, 2002-2010.
+- U.S. Army Reserves, Information Technology (25B), non-classified, 2006-2008.
+- Here's some non-classified photos from my [last deployment](https://www.flickr.com/groups/14890454@N23/pool/) 📷
+
 <br />
 
 📫 You can find me at:
