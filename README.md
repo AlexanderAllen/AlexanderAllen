@@ -12,7 +12,7 @@
 <br />
 
 ⚒️ Some of the previous, publicly available work I have done involve:
- - [Kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes/pull/93)
+ - [Kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes/pull/93) ([IBM/drupal-nginx-php-kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes))
  - [TypeScript](https://github.com/AlexanderAllen/vscode-gpg-indicator)
  - [Webpack / Electron / React](https://github.com/AlexanderAllen/2019-electron-webpack-react-starter)
  - [Lando](https://github.com/AlexanderAllen/Boilerplates-for-Lando)
