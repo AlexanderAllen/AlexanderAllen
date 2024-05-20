@@ -11,7 +11,7 @@
 
 <br />
 
-If you'd like a more detailed list of my previous projects and past experiences, [I recommend you check out my portfolio](portfolio.md).
+<b>If you would like a detailed list of my previous projects and experience, [check out my portfolio](portfolio.md).</b>
 
 <br />
 
