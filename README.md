@@ -3,7 +3,7 @@
 
 👋🏽 My name is Richard Allen (a.k.a Alexander Allen, he/him), I am a full stack developer.
 
-🦖 I started working with version 6 of Drupal in 2008 as a favor for some friends at the University of Puerto Rico, and the well the rest feels like a blur...
+🦖 I started working with version 6 of Drupal in 2008 as a favor for some friends at the University of Puerto Rico and well, the rest feels like a blur...
 
 🍰 I just finished all major work on [Panettone](https://github.com/AlexanderAllen/panettone), a PHP type generator for the Open Api Specification (OAS). I'd love to hear [your feedback](https://github.com/AlexanderAllen/panettone/issues/new)!
 
