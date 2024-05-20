@@ -1,7 +1,8 @@
 ### Hello,
 <br/>
 
-👋🏽 My name is Richard Allen (a.k.a Alexander Allen, he/him), I am a full stack developer.
+👋🏽 My name is Richard Allen (a.k.a Alexander Allen, he/him), I am a full stack developer. I mostly commit [tools](https://github.com/AlexanderAllen/Boilerplates-for-Lando) [that](https://github.com/IBM/drupal-nginx-php-kubernetes/pull/93) [I](https://github.com/DrupalDevOps/Mirounga) [use](https://github.com/AlexanderAllen/vscode-gpg-indicator) to help my clients or employers, but I'm having to
+add stuff of my own just for fun.
 
 🦖 I started working with version 6 of Drupal in 2008 as a favor for some friends at the University of Puerto Rico and well, the rest feels like a blur...
 
